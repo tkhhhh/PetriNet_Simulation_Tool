@@ -1,0 +1,8 @@
+com/mycompany/app/Painter/Algorithm.class
+com/mycompany/app/PetriNet/Place.class
+com/mycompany/app/Painter/Drawer.class
+com/mycompany/app/App.class
+com/mycompany/app/PetriNet/Transition.class
+com/mycompany/app/PetriNet/Edge.class
+com/mycompany/app/Parser/ImportPNML.class
+com/mycompany/app/PetriNet/PetriNet.class
